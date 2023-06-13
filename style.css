@@ -8,7 +8,7 @@ h2{
     font-size: smaller;
     color: brown;
 }
-.contact.btn{
+.btn btn-primary{
     display: block;
     margin: auto;
     width: 80px;
