@@ -8,3 +8,8 @@ h2{
     font-size: smaller;
     color: brown;
 }
+.contact.btn{
+    display: block;
+    margin: auto;
+    width: 80px;
+}
